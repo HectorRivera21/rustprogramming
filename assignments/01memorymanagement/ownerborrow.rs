@@ -3,6 +3,7 @@
 
 pub fn is_five(x: &i32) -> bool {
     // Your implementation goes here
+    x==&5
 }
 
 
