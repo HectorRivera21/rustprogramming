@@ -9,12 +9,16 @@ pub fn is_five(x: &i32) -> bool {
 
 fn swap(a: &mut i32, b: &mut i32) {
     // Implement this function
+    let temp = *a;
+    *a = *b;
+    *b = temp;
 }
 
 
 
 fn add_and_multiply(a: &i32, b: &mut i32) {
     // Implement this function
+    *b = (a+*b)*2;
 }
 
 
