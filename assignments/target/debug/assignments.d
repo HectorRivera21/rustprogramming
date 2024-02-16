@@ -1,0 +1,1 @@
+C:\Users\hecto\Desktop\coding\rustprogramming\assignments\target\debug\assignments.exe: C:\Users\hecto\Desktop\coding\rustprogramming\assignments\01memorymanagement\main.rs C:\Users\hecto\Desktop\coding\rustprogramming\assignments\01memorymanagement\ownerborrow.rs
